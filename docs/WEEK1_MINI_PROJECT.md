@@ -8,7 +8,7 @@
 
 ## Before You Start — Watch This First
 
-▶️ **Watch this video completely before filling in anything below (26 minutes):**
+**Watch this video completely before filling in anything below (26 minutes):**
 https://www.youtube.com/watch?v=bBC-nXj3Ng4
 
 This is 3Blue1Brown explaining Bitcoin from scratch. It is the clearest explanation of how a blockchain actually works. If you skip this, the rest won't make sense.
