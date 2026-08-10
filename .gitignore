@@ -1,4 +1,37 @@
+# ==============================================
+#   BlockVerify — .gitignore
+#   Never commit any of the files listed here.
+# ==============================================
+
+# ── Node.js ───────────────────────────────────
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Truffle build output ──────────────────────
+# These are auto-generated every time you run
+# `truffle compile`. Never commit them.
 build/
+
+# ── Environment variables ─────────────────────
+# .env contains private keys. One leak = funds gone.
+# NEVER commit this file. Ever.
 .env
-.DS_Store
+
+# ── OS files ──────────────────────────────────
+.DS_Store         # macOS junk
+Thumbs.db         # Windows junk
+desktop.ini       # Windows junk
+
+# ── VS Code settings ──────────────────────────
+.vscode/
+
+# ── Logs ──────────────────────────────────────
+logs/
+*.log
+
+# ── Misc ──────────────────────────────────────
+.cache/
+dist/
+coverage/
