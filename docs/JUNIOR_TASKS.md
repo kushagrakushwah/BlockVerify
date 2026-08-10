@@ -1,7 +1,7 @@
 # BlockVerify — Week-by-Week Tasks
 > For: Ayush Gupta, Fawaz, Nihar A Singh, Raja Shekar Chowdary, Sonu Prajapati
 > Mentor: Kushagra Kushwah
-> Started: August 2025
+> Started: August 2026
 
 ---
 
@@ -388,9 +388,9 @@ Write `scripts/seed-data.js` (Truffle exec script):
 // - Assign RETAILER to accounts[3]
 // - Assign CONSUMER to accounts[4]
 // - Register 3 products from accounts[1]:
-//   Paracetamol 500mg | BATCH-2025-01 | price: 25 | no expiry
-//   Amoxicillin 250mg | BATCH-2025-02 | price: 80 | no expiry
-//   Ibuprofen 400mg   | BATCH-2025-03 | price: 40 | no expiry
+//   Paracetamol 500mg | BATCH-2026-01 | price: 25 | no expiry
+//   Amoxicillin 250mg | BATCH-2026-02 | price: 80 | no expiry
+//   Ibuprofen 400mg   | BATCH-2026-03 | price: 40 | no expiry
 // - Log all contract addresses and product IDs after seeding
 ```
 

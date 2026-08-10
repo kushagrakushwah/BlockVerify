@@ -1,7 +1,7 @@
 {
   "name": "bcfp",
   "version": "1.0.0",
-  "description": "**SHELL Club â€” VNIT Nagpur | Summer Project 2025**   **Stack:** Solidity Â· Truffle Â· Ganache Â· Web3.js Â· HTML/CSS/JS   **Duration:** 16 Weeks | **Started:** August 2025",
+  "description": "Fake Product Identification System Using Blockchain — SHELL Club VNIT Nagpur | Summer Project 2026 | Stack: Solidity · Truffle · Ganache · Web3.js · HTML/CSS/JS",
   "main": "truffle-config.js",
   "directories": {
     "doc": "docs",
