@@ -1,0 +1,31 @@
+{
+  "name": "bcfp",
+  "version": "1.0.0",
+  "description": "**SHELL Club — VNIT Nagpur | Summer Project 2025**   **Stack:** Solidity · Truffle · Ganache · Web3.js · HTML/CSS/JS   **Duration:** 16 Weeks | **Started:** August 2025",
+  "main": "truffle-config.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushagrakushwah/BlockVerify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kushagrakushwah/BlockVerify/issues"
+  },
+  "homepage": "https://github.com/kushagrakushwah/BlockVerify#readme",
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.6.1"
+  }
+}
